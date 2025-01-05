@@ -1,5 +1,6 @@
-## 0.0.1
+## 1.0.0
 
-* Initial release
-* Added ResponsiveSizeHelper class with init, getWidth, and getHeight methods
-* Added extension methods for easier usage 
+* İlk sürüm
+* Figma tasarım boyutlarını cihaza özgü boyutlara dönüştürme özelliği
+* Responsive tasarım yardımcıları eklendi
+* Tüm platformlar için destek (Android, iOS, Web, Windows, Linux, macOS) 
