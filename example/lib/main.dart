@@ -81,7 +81,7 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             SizedBox(height: 24.h),
-            
+
             // Responsive Buttons
             Row(
               children: [
@@ -115,7 +115,7 @@ class MyHomePage extends StatelessWidget {
               ],
             ),
             SizedBox(height: 24.h),
-            
+
             // Responsive Image Container
             Container(
               width: 343.w,
@@ -133,7 +133,7 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             SizedBox(height: 24.h),
-            
+
             // Responsive Form Fields
             TextField(
               decoration: InputDecoration(
@@ -149,7 +149,7 @@ class MyHomePage extends StatelessWidget {
               style: TextStyle(fontSize: 16.w),
             ),
             SizedBox(height: 16.h),
-            
+
             // Device Info
             Text(
               'Device Information:',
@@ -172,4 +172,4 @@ class MyHomePage extends StatelessWidget {
       ),
     );
   }
-} 
+}
