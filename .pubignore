@@ -1,0 +1,11 @@
+# Build dosyaları
+build/
+.dart_tool/
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# Diğer geçici dosyalar
+*.log
+*.tmp 
