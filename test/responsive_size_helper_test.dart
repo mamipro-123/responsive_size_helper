@@ -19,13 +19,13 @@ void main() {
 
     test('getWidth converts design width to device width correctly', () {
       const testWidth = 100.0;
-      final expectedWidth = (testWidth / designWidth) * currentWidth;
+      const expectedWidth = (testWidth / designWidth) * currentWidth;
       expect(ResponsiveSizeHelper.getWidth(testWidth), expectedWidth);
     });
 
     test('getHeight converts design height to device height correctly', () {
       const testHeight = 200.0;
-      final expectedHeight = (testHeight / designHeight) * currentHeight;
+      const expectedHeight = (testHeight / designHeight) * currentHeight;
       expect(ResponsiveSizeHelper.getHeight(testHeight), expectedHeight);
     });
 

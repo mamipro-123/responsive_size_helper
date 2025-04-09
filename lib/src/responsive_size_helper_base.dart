@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 /// A helper class that provides utilities for creating responsive layouts
 /// by converting Figma design dimensions to device-specific dimensions.
 class ResponsiveSizeHelper {

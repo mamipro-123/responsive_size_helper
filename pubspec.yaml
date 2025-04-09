@@ -4,6 +4,7 @@ version: 1.0.0
 homepage: https://github.com/mamipro-123/responsive_size_helper
 repository: https://github.com/mamipro-123/responsive_size_helper
 issue_tracker: https://github.com/mamipro-123/responsive_size_helper/issues
+documentation: https://github.com/mamipro-123/responsive_size_helper/blob/main/README.md
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -31,4 +32,7 @@ topics:
   - ui
   - layout
   - design
-  - figma 
+  - figma
+
+funding:
+  - https://github.com/sponsors/mamipro-123 
