@@ -1,5 +1,5 @@
-name: responsive_size_helper_plus_plus_example
-description: Example app for the responsive_size_helper_plus_plus package.
+name: responsive_size_helper_plus_example
+description: Example app for the responsive_size_helper_plus package.
 
 publish_to: 'none'
 
@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  responsive_size_helper_plus_plus:
+  responsive_size_helper_plus:
     path: ../
   cupertino_icons: ^1.0.6
 
