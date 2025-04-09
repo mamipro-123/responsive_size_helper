@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.3
+
+* Fix import path errors related to package name mismatch.
+* Update package name in `pubspec.yaml` to `responsive_size_helper_plus`.
+* Resolve `deprecated_member_use` lint warning for `withOpacity`.
+* Correct file naming from `responsive_size_helper` to `responsive_size_helper_plus`.
+
 ## 1.0.0
 
 * Initial stable release 🎉
