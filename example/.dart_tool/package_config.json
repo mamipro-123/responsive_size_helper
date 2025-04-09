@@ -110,7 +110,7 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "responsive_size_helper",
+      "name": "responsive_size_helper_plus_plus",
       "rootUri": "../../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
@@ -170,13 +170,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "responsive_size_helper_example",
+      "name": "responsive_size_helper_plus_plus_example",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-04-09T20:30:35.009925Z",
+  "generated": "2025-04-09T20:52:17.724053Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///Users/mrkaynak/development/flutter",

@@ -1,6 +1,6 @@
-# Responsive Size Helper
+# Responsive Size Helper Plus
 
-[![pub package](https://img.shields.io/pub/v/responsive_size_helper.svg)](https://pub.dev/packages/responsive_size_helper)
+[![pub package](https://img.shields.io/pub/v/responsive_size_helper_plus_plus.svg)](https://pub.dev/packages/responsive_size_helper_plus_plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A powerful Flutter package that helps you create pixel-perfect responsive layouts by automatically converting Figma design dimensions to device-specific dimensions. This package makes it incredibly easy to maintain design consistency across different screen sizes and devices.
@@ -20,7 +20,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  responsive_size_helper: ^1.0.0
+  responsive_size_helper_plus_plus: ^1.0.0
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ dependencies:
 Initialize the helper with your Figma design dimensions and current device dimensions:
 
 ```dart
-import 'package:responsive_size_helper/responsive_size_helper.dart';
+import 'package:responsive_size_helper_plus_plus/responsive_size_helper_plus_plus.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -83,7 +83,7 @@ Here's a complete example of how to use the package:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:responsive_size_helper/responsive_size_helper.dart';
+import 'package:responsive_size_helper_plus_plus/responsive_size_helper_plus_plus.dart';
 
 class ResponsiveCard extends StatelessWidget {
   @override
@@ -148,4 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you find this package helpful, please give it a star on [GitHub](https://github.com/mrkaynak/responsive_size_helper) and consider supporting its development.
+If you find this package helpful, please give it a star on [GitHub](https://github.com/mamipro-123/responsive_size_helper_plus_plus) and consider supporting its development.

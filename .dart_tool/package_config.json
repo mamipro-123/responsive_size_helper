@@ -158,13 +158,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "responsive_size_helper",
+      "name": "responsive_size_helper_plus_plus",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-04-09T20:40:41.616170Z",
+  "generated": "2025-04-09T20:54:28.619390Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///Users/mrkaynak/development/flutter",

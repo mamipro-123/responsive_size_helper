@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:responsive_size_helper/responsive_size_helper.dart';
+import 'package:responsive_size_helper_plus/responsive_size_helper_plus.dart';
 
 void main() {
   group('ResponsiveSizeHelper', () {

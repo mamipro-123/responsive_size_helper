@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_size_helper/responsive_size_helper.dart';
+import 'package:responsive_size_helper_plus/responsive_size_helper_plus.dart';
 
 void main() {
   runApp(const MyApp());
