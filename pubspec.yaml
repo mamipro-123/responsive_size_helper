@@ -1,6 +1,6 @@
 name: responsive_size_helper_plus
 description: A powerful Flutter package that helps you create pixel-perfect responsive layouts by automatically converting Figma design dimensions to device-specific dimensions. Supports all platforms and makes responsive design effortless.
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/mamipro-123/responsive_size_helper_plus
 repository: https://github.com/mamipro-123/responsive_size_helper_plus
 issue_tracker: https://github.com/mamipro-123/responsive_size_helper_plus/issues

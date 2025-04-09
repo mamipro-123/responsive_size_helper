@@ -43,7 +43,7 @@ Add this to your package's `pubspec.yaml` file:
 
 dependencies:
 
-responsive_size_helper_plus:  ^1.0.3
+responsive_size_helper_plus:  ^1.0.4
 
 ```
 
