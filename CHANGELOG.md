@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.4
+## 1.0.5
 
 * Fix import path errors related to package name mismatch.
 * Update package name in `pubspec.yaml` to `responsive_size_helper_plus`.
